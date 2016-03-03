@@ -84,8 +84,8 @@
         <item>DFP - App Events</item>
     </string-array>
 
-    <string name="admob_banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="admob_customevent_ad_unit_id">ca-app-pub-3940256099942544/3325725716</string>
+    <string name="admob_banner_ad_unit_id">ca-app-pub-1456245130357993/4744855343</string>
+    <string name="admob_customevent_ad_unit_id">ca-app-pub-1456245130357993/8167922546</string>
 
     <string name="listener_fragment_title">AdMob Ad Listener</string>
     <string name="targeting_fragment_title">AdMob Ad Targeting</string>
